@@ -1,0 +1,18 @@
+Scenario
+
+There is an upcoming carnival show in a certain area. People are registering to audition for the carnival,
+for different types of activities. These activities include Dancing, singing, Drawing, Sculpting, Drama and Poetry.
+The participants have an option of auditioning/performing solo or with a group of people. They register at a center
+nearby and wait for an SMS confirming the date they should avail themselves for auditions.
+
+Functionality
+
+The web platform I created will allow the participants to register themselves for the auditions by first proving
+their personal details and the choice of activity they wish to do at the carnival. As soon as they have entered their
+details, they will be stored in a database after they press the “Apply for auditions” button. That will then lead
+them to a page where they will be given an option to add a participant as part of their audition or remove a
+participant only if they can provide their full details. If no participant will be added or deleted, they can select the
+“no” option. When the “yes” option is selected, a section where they can add the details of another participant will
+appear. After that process they will then proceed to the last page which will state their application status after
+they set a possible date, they are willing to avail themselves and have phone number which they can contact should they
+have any queries.
